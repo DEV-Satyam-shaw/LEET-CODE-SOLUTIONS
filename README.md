@@ -26,6 +26,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0027-remove-element) |
@@ -66,6 +67,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0069-sqrtx) |
 ## Bit Manipulation
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
