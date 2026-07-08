@@ -11,10 +11,12 @@ hi
 | [0067-add-binary](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -37,6 +39,7 @@ hi
 | [0088-merge-sorted-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
@@ -74,11 +77,13 @@ hi
 | [0004-median-of-two-sorted-arrays](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -87,6 +92,7 @@ hi
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
