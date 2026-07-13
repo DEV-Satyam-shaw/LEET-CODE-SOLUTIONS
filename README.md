@@ -18,6 +18,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0160-intersection-of-two-linked-lists) |
@@ -38,6 +39,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
