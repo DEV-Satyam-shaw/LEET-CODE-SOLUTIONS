@@ -2,37 +2,42 @@ class Solution {
     public int[] searchRange(int[] nums, int target) {
         int[] ans = {-1, -1};
         
-        ans[0] = findBound(nums, target, true);
-        
-        if (ans[0] != -1) {
-            ans[1] = findBound(nums, target, false);
+        // Edge case: empty array
+        if (nums == null || nums.length == 0) {
+            return ans;
         }
-        
-        return ans;
-    }
-    
-    private int findBound(int[] nums, int target, boolean isFirst) {
+
         int l = 0;
         int r = nums.length - 1;
-        int bound = -1;
-        
+
+        // 1. Find any instance of the target
         while (l <= r) {
-            int mid = l + (r - l) / 2; 
-            
-            if (nums[mid] == target) {
-                bound = mid; 
-                if (isFirst) {
-                    r = mid - 1; 
-                } else {
-                    l = mid + 1;
-                }
-            } else if (nums[mid] < target) {
+            int mid = l + (r - l) / 2; // Prevents integer overflow
+
+            if (target > nums[mid]) {
                 l = mid + 1;
-            } else {
+            } else if (target < nums[mid]) {
                 r = mid - 1;
+            } else {
+                // Target found! Now expand outward to find boundaries
+                int leftBoundary = mid;
+                int rightBoundary = mid;
+
+                
+                while (leftBoundary >= 0 && nums[leftBoundary] == target) {
+                    ans[0] = leftBoundary;
+                    leftBoundary--;
+                }
+
+                while (rightBoundary < nums.length && nums[rightBoundary] == target) {
+                    ans[1] = rightBoundary;
+                    rightBoundary++;
+                }
+
+                return ans;
             }
         }
-        
-        return bound;
+
+        return ans;
     }
 }
