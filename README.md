@@ -8,6 +8,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0007-reverse-integer](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0069-sqrtx) |
@@ -79,6 +80,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | ------- |
 | [0002-add-two-numbers](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
