@@ -6,7 +6,6 @@ class Solution {
         while( l <= r)
         {
             int mid = (l + r) / 2;
-            // my correct answer
             if(nums[mid] == target)
             {
                 return mid;
