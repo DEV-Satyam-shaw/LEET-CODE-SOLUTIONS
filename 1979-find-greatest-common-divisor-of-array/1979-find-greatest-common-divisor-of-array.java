@@ -2,7 +2,7 @@ class Solution {
     public int findGCD(int[] nums) {
         int min = nums[0];
         int max = nums[0];
-        int ans = 1;
+        int answer = 1;
         for(int i = 1; i < nums.length; i++)
         {
             if (nums[i] > max)
@@ -17,9 +17,9 @@ class Solution {
         {
             if(max % j == 0 && min % j == 0)
             {
-                ans = j;
+                answer = j;
             }
         }
-        return ans;
+        return answer;
     }
 }
