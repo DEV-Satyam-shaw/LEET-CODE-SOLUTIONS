@@ -17,6 +17,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0168-excel-sheet-column-title](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
@@ -97,6 +98,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0050-powx-n](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +131,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0029-divide-two-integers](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 ## Simulation
 |  |
