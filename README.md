@@ -18,6 +18,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0171-excel-sheet-column-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
@@ -139,6 +140,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0258-add-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -179,6 +181,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Monotonic Stack
 |  |
