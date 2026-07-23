@@ -70,6 +70,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0169-majority-element](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Trie
 |  |
@@ -117,6 +118,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0141-linked-list-cycle](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 ## String Matching
 |  |
 | ------- |
