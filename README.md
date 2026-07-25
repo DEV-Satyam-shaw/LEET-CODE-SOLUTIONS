@@ -21,6 +21,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0258-add-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +154,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0169-majority-element](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
