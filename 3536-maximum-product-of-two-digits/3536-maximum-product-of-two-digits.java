@@ -1,31 +1,33 @@
 class Solution {
     public int maxProduct(int n) {
-        int first = n % 10;
-        n /= 10;
-        int second = n % 10;
+        int f = n % 10;
         n /= 10;
 
-        if(second > first )
+        int s = n % 10;
+        n /= 10;
+
+        if(s > f)
         {
-            int temp = second;
-            second = first;
-            first = temp;
+            int temp = f;
+            f = s;
+            s = temp;
         }
-        
+
         while(n != 0)
         {
-            int rem = n % 10;
+            int r = n % 10;
             n /= 10;
 
-            if(rem  > first)
+            if(r > f)
             {
-                second = first;
-                first = rem;
+                s = f;
+                f = r;
             }
-            else if(rem > second){
-            second = rem;
+            else if(r > s)
+            {
+                s = r;
             }
         }
-        return first * second;
+        return f * s;
     }
 }
