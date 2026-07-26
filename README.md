@@ -49,6 +49,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0171-excel-sheet-column-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0316-remove-duplicate-letters) |
+| [0344-reverse-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Array
 |  |
@@ -123,6 +124,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0160-intersection-of-two-linked-lists](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
 | ------- |
