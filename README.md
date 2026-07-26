@@ -20,6 +20,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0231-power-of-two](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
@@ -73,6 +74,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0238-product-of-array-except-self](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Trie
 |  |
@@ -154,6 +156,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0169-majority-element](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
