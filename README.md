@@ -54,6 +54,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0316-remove-duplicate-letters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Array
@@ -95,6 +96,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0020-valid-parentheses](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0316-remove-duplicate-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Linked List
 |  |
