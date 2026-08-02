@@ -34,6 +34,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0169-majority-element](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
@@ -50,6 +51,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0125-valid-palindrome](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0344-reverse-string) |
@@ -172,6 +174,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0088-merge-sorted-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
