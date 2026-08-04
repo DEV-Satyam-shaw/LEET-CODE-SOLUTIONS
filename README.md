@@ -40,6 +40,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0290-word-pattern](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3731-find-missing-elements](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3731-find-missing-elements](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
 | ------- |
@@ -184,6 +186,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
