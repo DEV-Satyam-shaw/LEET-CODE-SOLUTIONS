@@ -6,9 +6,9 @@ class Solution {
             xor = xor ^ i;
         } 
 
-        for(int j = 0; j < nums.length; j++)
+        for(int i = 0; i < nums.length; i++)
         {
-            xor = xor ^ nums[j];
+            xor = xor ^ nums[i];
         }
         return xor;
     }
