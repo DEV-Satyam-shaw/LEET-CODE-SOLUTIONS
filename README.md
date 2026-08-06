@@ -25,6 +25,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [1025-divisor-game](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
@@ -262,4 +263,8 @@ Hi, these are all the topics on which i solved problems in leetcode.
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1025-divisor-game) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
