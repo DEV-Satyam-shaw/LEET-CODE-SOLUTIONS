@@ -91,6 +91,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0350-intersection-of-two-arrays-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0867-transpose-matrix](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -182,6 +183,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | ------- |
 | [0067-add-binary](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0867-transpose-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -274,4 +276,8 @@ Hi, these are all the topics on which i solved problems in leetcode.
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3345-smallest-divisible-digit-product-i) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
