@@ -78,6 +78,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0053-maximum-subarray](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -142,6 +143,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0141-linked-list-cycle) |
@@ -190,6 +192,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
@@ -283,4 +286,12 @@ Hi, these are all the topics on which i solved problems in leetcode.
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0867-transpose-matrix) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
