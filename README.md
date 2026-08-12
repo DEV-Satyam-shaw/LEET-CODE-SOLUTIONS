@@ -42,6 +42,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0290-word-pattern](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -101,6 +102,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [1929-concatenation-of-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
@@ -296,4 +298,8 @@ Hi, these are all the topics on which i solved problems in leetcode.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
