@@ -1,20 +1,21 @@
 class Solution {
     public int maximumLengthSubstring(String s) {
-        Map<Character, Integer> freq = new HashMap<>();
-        int maxLen = 0;
+        int[] freq = new int[26];
+
         int l = 0;
+        int maxLen = 0;
+        
         for(int i = 0; i < s.length(); i++)
         {
-            freq.put(s.charAt(i), freq.getOrDefault(s.charAt(i) , 0)+1);
+            freq[s.charAt(i) - 'a']++;
 
-            while(freq.get(s.charAt(i)) > 2)
+            while(freq[s.charAt(i) - 'a'] > 2)
             {
-                freq.put(s.charAt(l), freq.get(s.charAt(l)) - 1);
+                freq[s.charAt(l) - 'a']--;
                 l++;
             }
             maxLen = Math.max(maxLen, i-l+1);
         }
-        // maxLen = (l == 0) ? maxLen : maxLen-1;
         return maxLen;
     }
 }
