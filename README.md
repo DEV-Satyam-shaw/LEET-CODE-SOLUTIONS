@@ -86,6 +86,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0238-product-of-array-except-self) |
@@ -186,6 +187,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0029-divide-two-integers](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
