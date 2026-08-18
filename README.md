@@ -66,6 +66,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0387-first-unique-character-in-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2390-removing-stars-from-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2390-removing-stars-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Array
@@ -123,6 +124,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0316-remove-duplicate-letters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0316-remove-duplicate-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2390-removing-stars-from-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -202,6 +204,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0867-transpose-matrix](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
 | ------- |
