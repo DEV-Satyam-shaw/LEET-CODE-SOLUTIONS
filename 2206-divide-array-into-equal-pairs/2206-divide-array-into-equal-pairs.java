@@ -1,15 +1,15 @@
 class Solution {
     public boolean divideArray(int[] nums) {
-        Map<Integer, Integer> freq = new HashMap<>();
-
+        // Map<Integer, Integer> freq = new HashMap<>();
+        int freq[] = new int[501];
         for(int x : nums)
         {
-            freq.put(x, freq.getOrDefault(x, 0) + 1);
+            freq[x]++;
         }
         
         for(int x : nums)
         {
-            if(freq.get(x) % 2 != 0)
+            if(freq[x] % 2 != 0)
             {
                 return false;
             }
