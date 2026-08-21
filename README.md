@@ -101,6 +101,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0350-intersection-of-two-arrays-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0888-fair-candy-swap) |
@@ -225,6 +226,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0349-intersection-of-two-arrays](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
@@ -265,6 +267,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0055-jump-game](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0316-remove-duplicate-letters) |
+| [0561-array-partition](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0561-array-partition) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Number Theory
 |  |
@@ -297,6 +300,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0561-array-partition) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Brainteaser
 |  |
