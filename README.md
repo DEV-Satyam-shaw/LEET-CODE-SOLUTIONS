@@ -21,6 +21,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0258-add-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
@@ -162,6 +163,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0206-reverse-linked-list](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -212,6 +214,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0201-bitwise-and-of-numbers-range](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0342-power-of-four) |
 | [2206-divide-array-into-equal-pairs](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2206-divide-array-into-equal-pairs) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
