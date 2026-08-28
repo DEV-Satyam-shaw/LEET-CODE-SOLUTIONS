@@ -75,6 +75,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0344-reverse-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2390-removing-stars-from-a-string) |
@@ -138,6 +139,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0020-valid-parentheses](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2390-removing-stars-from-a-string) |
@@ -284,6 +286,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0055-jump-game](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0561-array-partition) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Number Theory
@@ -295,6 +298,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
 |  |
