@@ -116,6 +116,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0867-transpose-matrix](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
+| [0941-valid-mountain-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
