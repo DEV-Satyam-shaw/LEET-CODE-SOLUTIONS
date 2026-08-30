@@ -1,7 +1,7 @@
 class Solution {
     public int minimumDeletions(int[] nums) {
-        if(nums.length == 1) return 1;
         int n = nums.length;
+        if(n == 1) return 1;
 
         int lowind = 0, highind = 0;
         for(int i = 1; i < n; i++)
