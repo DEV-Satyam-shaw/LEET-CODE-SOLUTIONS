@@ -19,8 +19,7 @@ class Solution {
                     right++;
                 }
 
-                int currlen = right - left + 1;
-                maxlen = Math.max(maxlen, currlen);
+                maxlen = Math.max(maxlen, right - left + 1);
                 i = right;
             }
         }
