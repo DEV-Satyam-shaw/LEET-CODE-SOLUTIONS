@@ -78,6 +78,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0345-reverse-vowels-of-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0402-remove-k-digits) |
+| [0520-detect-capital](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
