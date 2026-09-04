@@ -12,9 +12,8 @@ class Solution {
         for(int i = 0; i < n; i++)
         {
             max = Math.max(max,nums[i]);
-            int ans = max - min[i];
 
-            if(ans <= k) return i;
+            if(max - min[i] <= k) return i;
         }
 
         return -1;
