@@ -151,6 +151,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0402-remove-k-digits) |
@@ -377,4 +378,16 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0003-longest-substring-without-repeating-characters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
