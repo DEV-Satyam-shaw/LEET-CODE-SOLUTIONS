@@ -122,6 +122,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0485-max-consecutive-ones](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0739-daily-temperatures](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [0845-longest-mountain-in-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0845-longest-mountain-in-array) |
 | [0867-transpose-matrix](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0867-transpose-matrix) |
