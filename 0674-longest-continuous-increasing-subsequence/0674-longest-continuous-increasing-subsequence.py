@@ -1,5 +1,7 @@
 class Solution:
     def findLengthOfLCIS(self, nums: List[int]) -> int:
+        if not nums:
+            return 0
         currlen = 1
         maxlen = 1
 
