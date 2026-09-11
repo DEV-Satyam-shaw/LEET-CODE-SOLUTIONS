@@ -60,6 +60,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [2206-divide-array-into-equal-pairs](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2206-divide-array-into-equal-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## String
@@ -140,6 +141,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [2206-divide-array-into-equal-pairs](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2206-divide-array-into-equal-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
@@ -187,6 +189,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0326-power-of-three](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -363,6 +366,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0845-longest-mountain-in-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
