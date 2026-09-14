@@ -28,6 +28,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0507-perfect-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -405,4 +406,8 @@ Hi, these are all the topics on which i solved problems in leetcode.
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1114-print-in-order) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
