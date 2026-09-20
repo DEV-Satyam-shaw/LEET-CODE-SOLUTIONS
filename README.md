@@ -92,6 +92,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2390-removing-stars-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Array
 |  |
@@ -262,6 +263,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [2149-rearrange-array-elements-by-sign](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
