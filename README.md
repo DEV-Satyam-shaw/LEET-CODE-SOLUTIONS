@@ -90,6 +90,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0504-base-7](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2390-removing-stars-from-a-string) |
@@ -236,6 +237,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0796-rotate-string) |
 ## Binary Search
 |  |
 | ------- |
