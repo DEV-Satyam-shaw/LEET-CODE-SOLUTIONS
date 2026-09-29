@@ -139,6 +139,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0845-longest-mountain-in-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0845-longest-mountain-in-array) |
 | [0867-transpose-matrix](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0888-fair-candy-swap) |
+| [0896-monotonic-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
