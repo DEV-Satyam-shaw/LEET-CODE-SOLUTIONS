@@ -130,6 +130,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0238-product-of-array-except-self](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0414-third-maximum-number) |
@@ -347,6 +348,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0055-jump-game](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0316-remove-duplicate-letters) |
+| [0334-increasing-triplet-subsequence](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0561-array-partition) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -477,4 +479,8 @@ Hi, these are all the topics on which i solved problems in leetcode.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
