@@ -93,6 +93,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0678-valid-parenthesis-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -185,6 +186,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0402-remove-k-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -477,6 +479,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0020-valid-parentheses](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
