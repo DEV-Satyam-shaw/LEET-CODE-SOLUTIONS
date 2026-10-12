@@ -122,6 +122,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0035-search-insert-position](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0066-plus-one) |
@@ -305,6 +306,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | ------- |
 | [0015-3sum](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
@@ -507,6 +509,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | ------- |
 | [0022-generate-parentheses](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0047-permutations-ii) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
