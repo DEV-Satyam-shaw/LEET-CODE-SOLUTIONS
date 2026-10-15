@@ -63,6 +63,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0888-fair-candy-swap](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0888-fair-candy-swap) |
 | [1207-unique-number-of-occurrences](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1207-unique-number-of-occurrences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2206-divide-array-into-equal-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
@@ -167,6 +168,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [2206-divide-array-into-equal-pairs](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2206-divide-array-into-equal-pairs) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3206-alternating-groups-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3206-alternating-groups-i) |
@@ -519,4 +521,12 @@ Hi, these are all the topics on which i solved problems in leetcode.
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0334-increasing-triplet-subsequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
