@@ -53,6 +53,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0169-majority-element](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0290-word-pattern) |
@@ -136,6 +137,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0137-single-number-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0283-move-zeroes) |
@@ -455,6 +457,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-alternating-groups-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3206-alternating-groups-i) |
