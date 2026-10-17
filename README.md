@@ -7,6 +7,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0002-add-two-numbers](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0050-powx-n) |
@@ -47,6 +48,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | ------- |
 | [0001-two-sum](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0160-intersection-of-two-linked-lists) |
@@ -74,6 +76,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
