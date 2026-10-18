@@ -470,16 +470,19 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0112-path-sum) |
 ## Concurrency
 |  |
 | ------- |
@@ -504,6 +507,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0112-path-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
