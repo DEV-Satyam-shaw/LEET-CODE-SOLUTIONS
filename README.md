@@ -136,6 +136,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0053-maximum-subarray](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -283,6 +284,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -454,6 +456,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0867-transpose-matrix) |
 ## Quicksort
 |  |
