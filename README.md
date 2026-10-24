@@ -35,6 +35,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [1025-divisor-game](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2469-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3536-maximum-product-of-two-digits) |
@@ -112,6 +113,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
