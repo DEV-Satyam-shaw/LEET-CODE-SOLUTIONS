@@ -1,18 +1,14 @@
 class Solution {
     public int[] constructRectangle(int area) {
-        int[] ans = new int[2];
-        int diff = Integer.MAX_VALUE;
-
-        for(int i = 1; i <= Math.sqrt(area); i++){
-            if(area % i == 0){
-                int div = area / i;
-                int currdiff = div - i;
-                if(currdiff < diff){
-                    ans[0] = div; ans[1] = i;
-                    diff = currdiff;
-                }
-            }
+        // Start width at floor(sqrt(area))
+        int w = (int) Math.sqrt(area);
+        
+        // Decrement until we find the largest factor <= sqrt(area)
+        while (area % w != 0) {
+            w--;
         }
-        return ans;
+        
+        // The first match is guaranteed to have the minimal difference (L - W)
+        return new int[]{area / w, w};
     }
 }
