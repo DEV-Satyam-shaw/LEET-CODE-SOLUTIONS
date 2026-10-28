@@ -195,6 +195,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3875-construct-uniform-parity-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3904-smallest-stable-index-ii) |
 ## Trie
@@ -312,6 +313,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0342-power-of-four](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0342-power-of-four) |
 | [2206-divide-array-into-equal-pairs](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2206-divide-array-into-equal-pairs) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -366,6 +368,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0678-valid-parenthesis-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0845-longest-mountain-in-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0845-longest-mountain-in-array) |
 | [1025-divisor-game](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1025-divisor-game) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
@@ -464,6 +467,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0867-transpose-matrix) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Quicksort
 |  |
 | ------- |
