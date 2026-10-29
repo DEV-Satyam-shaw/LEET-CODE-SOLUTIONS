@@ -103,6 +103,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0504-base-7](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
+| [0709-to-lower-case](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0856-score-of-parentheses) |
