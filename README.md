@@ -185,6 +185,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0977-squares-of-a-sorted-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1207-unique-number-of-occurrences) |
+| [1267-count-servers-that-communicate](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
@@ -404,6 +405,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | ------- |
 | [0169-majority-element](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1267-count-servers-that-communicate) |
 | [2206-divide-array-into-equal-pairs](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2206-divide-array-into-equal-pairs) |
 ## Greedy
 |  |
@@ -486,6 +488,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0073-set-matrix-zeroes](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0867-transpose-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1267-count-servers-that-communicate) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Quicksort
 |  |
@@ -516,6 +519,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0094-binary-tree-inorder-traversal](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0112-path-sum) |
+| [1267-count-servers-that-communicate](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -547,6 +551,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | ------- |
 | [0101-symmetric-tree](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0112-path-sum) |
+| [1267-count-servers-that-communicate](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1267-count-servers-that-communicate) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -582,4 +587,8 @@ Hi, these are all the topics on which i solved problems in leetcode.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
