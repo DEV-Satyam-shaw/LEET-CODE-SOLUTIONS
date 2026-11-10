@@ -204,6 +204,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [3208-alternating-groups-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3208-alternating-groups-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3693-climbing-stairs-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -387,6 +388,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0678-valid-parenthesis-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0845-longest-mountain-in-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0845-longest-mountain-in-array) |
 | [1025-divisor-game](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1025-divisor-game) |
+| [3693-climbing-stairs-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
 |  |
