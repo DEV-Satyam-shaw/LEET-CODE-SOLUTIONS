@@ -201,6 +201,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3206-alternating-groups-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3206-alternating-groups-i) |
 | [3208-alternating-groups-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3208-alternating-groups-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
