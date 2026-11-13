@@ -33,6 +33,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0504-base-7](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
+| [0556-next-greater-element-iii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1025-divisor-game) |
@@ -109,6 +110,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0402-remove-k-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0402-remove-k-digits) |
 | [0504-base-7](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0520-detect-capital) |
+| [0556-next-greater-element-iii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0556-next-greater-element-iii) |
 | [0678-valid-parenthesis-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0771-jewels-and-stones) |
@@ -291,6 +293,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0345-reverse-vowels-of-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0556-next-greater-element-iii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0556-next-greater-element-iii) |
 | [0845-longest-mountain-in-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0845-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
