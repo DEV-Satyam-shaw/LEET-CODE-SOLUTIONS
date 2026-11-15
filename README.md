@@ -38,6 +38,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0836-rectangle-overlap](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2469-convert-the-temperature) |
@@ -192,6 +193,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1929-concatenation-of-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -394,6 +396,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0678-valid-parenthesis-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0845-longest-mountain-in-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0845-longest-mountain-in-array) |
 | [1025-divisor-game](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1025-divisor-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3693-climbing-stairs-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
@@ -461,6 +464,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3904-smallest-stable-index-ii) |
