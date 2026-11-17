@@ -74,6 +74,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0350-intersection-of-two-arrays-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0888-fair-candy-swap) |
 | [1207-unique-number-of-occurrences](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1207-unique-number-of-occurrences) |
@@ -176,6 +177,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -235,6 +237,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0225-implement-stack-using-queues](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0856-score-of-parentheses) |
@@ -450,6 +453,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0042-trapping-rain-water](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
