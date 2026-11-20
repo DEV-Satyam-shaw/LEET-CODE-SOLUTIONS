@@ -26,6 +26,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0326-power-of-three](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -110,6 +111,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0345-reverse-vowels-of-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0402-remove-k-digits) |
+| [0415-add-strings](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0520-detect-capital) |
 | [0556-next-greater-element-iii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0556-next-greater-element-iii) |
@@ -351,6 +353,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | ------- |
 | [0067-add-binary](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
