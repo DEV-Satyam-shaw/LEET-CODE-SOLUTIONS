@@ -83,6 +83,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
@@ -133,6 +134,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [2409-count-days-spent-together](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2409-count-days-spent-together) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -214,6 +216,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3206-alternating-groups-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3206-alternating-groups-i) |
 | [3208-alternating-groups-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3208-alternating-groups-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -538,6 +541,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0094-binary-tree-inorder-traversal](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0112-path-sum) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -545,6 +549,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0101-symmetric-tree](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0112-path-sum) |
 | [1267-count-servers-that-communicate](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
