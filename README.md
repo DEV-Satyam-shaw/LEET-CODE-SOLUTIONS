@@ -316,6 +316,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0796-rotate-string) |
 ## Binary Search
 |  |
@@ -541,6 +542,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0094-binary-tree-inorder-traversal](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0112-path-sum) |
+| [0572-subtree-of-another-tree](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0572-subtree-of-another-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
@@ -548,6 +550,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0094-binary-tree-inorder-traversal](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0112-path-sum) |
+| [0572-subtree-of-another-tree](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0572-subtree-of-another-tree) |
 | [1267-count-servers-that-communicate](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1267-count-servers-that-communicate) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
@@ -556,6 +559,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [0094-binary-tree-inorder-traversal](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0112-path-sum) |
+| [0572-subtree-of-another-tree](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0572-subtree-of-another-tree) |
 ## Concurrency
 |  |
 | ------- |
@@ -621,4 +625,8 @@ Hi, these are all the topics on which i solved problems in leetcode.
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1267-count-servers-that-communicate) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
