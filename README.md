@@ -44,6 +44,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [2409-count-days-spent-together](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2469-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -364,6 +365,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [2243-calculate-digit-sum-of-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
