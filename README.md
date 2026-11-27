@@ -233,6 +233,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [3882-minimum-xor-path-in-a-grid](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3904-smallest-stable-index-ii) |
+| [3978-unique-middle-element](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3978-unique-middle-element) |
 ## Trie
 |  |
 | ------- |
@@ -436,6 +437,7 @@ Hi, these are all the topics on which i solved problems in leetcode.
 | [1267-count-servers-that-communicate](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1267-count-servers-that-communicate) |
 | [1748-sum-of-unique-elements](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/1748-sum-of-unique-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/2206-divide-array-into-equal-pairs) |
+| [3978-unique-middle-element](https://github.com/DEV-Satyam-shaw/LEET-CODE-SOLUTIONS/tree/master/3978-unique-middle-element) |
 ## Greedy
 |  |
 | ------- |
